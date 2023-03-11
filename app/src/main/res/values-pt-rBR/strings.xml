@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CertificacaoAndroid</string>
+    <string name="update_me">Atualizar!</string>
+    <string name="cancel_me">Cancelar!</string>
+    <string name="notify_me">Notificar!</string>
+</resources>
